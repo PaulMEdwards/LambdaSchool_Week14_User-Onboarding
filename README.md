@@ -1,12 +1,13 @@
 # Module Project: Advanced Form Management - User Onboarding
+
 ## Project Description
 
 We've seen many different styles of form management by now -- simple to complex. Today we are going to unleash your inner form-wizard! 🧙
 
 ## Set Up The Project
 
-- [ ] Start off by installing a blank React app by using Create React App.
-- [ ] Add the following as dependencies inside your React app:
+- [x] Start off by installing a blank React app by using Create React App.
+- [x] Add the following as dependencies inside your React app:
   - `formik`
   - `yup`
   - `axios`
